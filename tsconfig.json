@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": false,
+    "removeComments": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "typings/index.d.ts"
+  ]
+}
