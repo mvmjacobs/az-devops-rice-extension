@@ -1,7 +1,6 @@
 {
-  "public": false,
   "manifestVersion": 1,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "RICE: Four factors for assessing priority",
   "scopes": [
     "vso.work",
@@ -40,7 +39,7 @@
     }
   },
   "categories": [
-    "Plan and Track"
+    "Azure Boards"
   ],
   "contributions": [
     {
