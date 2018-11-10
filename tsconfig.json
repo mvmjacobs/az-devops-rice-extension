@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "sourceMap": false,
-    "removeComments": true
-  },
-  "include": [
-    "src/**/*.ts",
-    "typings/index.d.ts"
-  ]
+    "module": "amd",
+    "moduleResolution": "node",
+    "target": "es5",
+    "rootDir": "src/",
+    "outDir": "dist/",
+    "types": [
+      "vss-web-extension-sdk"
+    ]
+  }
 }
