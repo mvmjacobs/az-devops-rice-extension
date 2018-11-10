@@ -17,17 +17,17 @@ RICE extension enables a **calculated field** for computing and storing the RICE
 
 
 ## Features
+### Settings hub
+* Specify which fields are used for Reach, Impact, Confidence, Effort and RICE Score.
+
+![Mapping fields for calculation](marketplace/mapping-fields.gif)
+
+
 ### Auto calculated RICE Score field on the form
 * RICE is automatically updated when form is loaded.
 * RICE is automatically updated when the Reach, Impact, Confidence or Effort fields are updated.
 
 ![RICE is automatically updated on the work item form](marketplace/auto-calc.gif)
-
-
-### Settings hub
-* Specify which fields are used for Reach, Impact, Confidence, Effort and RICE Score.
-
-![Mapping fields for calculation](marketplace/mapping-fields.gif)
 
 
 ## How to contribute
