@@ -28,15 +28,25 @@
   "content": {
     "details": {
       "path": "marketplace/README.md"
+    },
+    "license": {
+      "path": "LICENSE.md"
     }
   },
   "links": {
+    "repository": {
+      "uri": "https://github.com/mvmjacobs/vsts-rice-extension"
+    },
     "learn": {
       "uri": "https://github.com/mvmjacobs/vsts-rice-extension"
     },
     "support": {
       "uri": "https://github.com/mvmjacobs/vsts-rice-extension/issues"
     }
+  },
+  "repository": {
+    "type": "git",
+    "uri": "https://github.com/mvmjacobs/vsts-rice-extension"
   },
   "categories": [
     "Azure Boards"
