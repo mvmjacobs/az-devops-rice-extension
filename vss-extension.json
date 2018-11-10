@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "version": "0.1.1",
+  "version": "1.0.0",
   "name": "RICE: Four factors for assessing priority",
   "scopes": [
     "vso.work",
