@@ -1,5 +1,3 @@
-const path = require('path');
-const webpack = require('webpack');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
@@ -42,7 +40,8 @@ module.exports = {
       { from: './src/*.html', to: './' },
       { from: './marketplace', to: 'marketplace' },
       { from: './vss-extension.json', to: 'vss-extension-release.json' },
-      { from: './configs/release.json', to: 'release.json' }
+      { from: './configs/release.json', to: 'release.json' },
+      { from: './LICENSE.md', to: 'LICENSE.md' }
     ])
   ]
 }
