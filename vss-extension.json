@@ -61,6 +61,7 @@
         "ms.vss-web.collection-admin-hub-group"
       ],
       "properties": {
+        "name": "RICE Settings",
         "uri": "src/settings.html"
       }
     }
