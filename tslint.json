@@ -13,10 +13,7 @@
       "spaces",
       2
     ],
-    "member-access": [
-      true,
-      "check-accessor"
-    ],
+    "member-access": false,
     "curly": false,
     "no-console": [
       false
@@ -36,7 +33,8 @@
     "no-var-requires": false,
     "max-line-length": [
       false
-    ]
+    ],
+    "object-literal-sort-keys": false
   },
   "rulesDirectory": []
 }
