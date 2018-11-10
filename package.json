@@ -1,6 +1,6 @@
 {
   "name": "vsts-rice-extension",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "VSTS extension that auto calculates RICE and stores it in a field.",
   "main": "webpack.config.js",
   "scripts": {
@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/mvmjacobs/vsts-rice-extension#README",
   "dependencies": {
-    "vss-web-extension-sdk": "^5.141.0"
+    "vss-web-extension-sdk": "^5.141.0",
+    "@types/jquery": "^3.3.22",
+    "@types/q": "1.5.1"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^4.6.0",
