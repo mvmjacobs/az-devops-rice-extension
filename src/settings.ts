@@ -1,3 +1,5 @@
+import './settings.scss';
+
 export class Settings {
 
   public initialize() {
